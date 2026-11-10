@@ -24,3 +24,31 @@
 - Passed: 6
 - Failed: 1
 - Pass Rate: 85.71%
+
+
+### Part 3: Robot Framework
+
+- Robot Framework: 7.5.1
+- Python: 3.12.4
+- ChromeDriver: 157.0.8103.50
+- Browser: Chrome Headless
+
+#### Step 3.2: Wrong-title test
+Expected failure message:
+`Title should have been 'Web Form' but was 'Web form'.`
+
+#### Step 3.8: Headless Test Runs
+
+Run 1:
+- Result: PASS
+- Passed: 1, Failed: 0
+- Elapsed time: 14.786746 seconds
+- Pizza name: Lab Pizza 20261110-121412
+- Recommended tool: Pizza cutter
+
+Run 2:
+- Result: PASS
+- Passed: 1, Failed: 0
+- Elapsed time: 11.035938 seconds
+- Pizza name: Lab Pizza 20261110-121453
+- Recommended tool: Pizza cutter
